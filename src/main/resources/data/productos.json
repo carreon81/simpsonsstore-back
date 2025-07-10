@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Milhouse con vaso",
+    "description": "Milhouse con vaso de gaseosa",
+    "precio": 145.5,
+    "categoria": "simpsons",
+    "stock": 25,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/12.10.24_255634_176664-_Simpsons-2.5Scaled-Figs-Asst-W32365.webp"
+  },
+  {
+    "name": "Ralph",
+    "description": "Ralph con tarjeta locomotora",
+    "precio": 100.5,
+    "categoria": "simpsons",
+    "stock": 0,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/12.10.24_255634_176664-_Simpsons-2.5Scaled-Figs-Asst-W32346.webp"
+  },
+  {
+    "name": "Nelson",
+    "description": "Figura de Nelson",
+    "precio": 100.5,
+    "categoria": "simpsons",
+    "stock": 0,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/12.3.24_255258_196774_19678_19679_19680_19681_19682_The-Simpsons-2.5in-Scaled-Figs-Asst-W41765.webp"
+  },
+  {
+    "name": "Ned Flanders",
+    "description": "Figura de Ned Flanders",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 5,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2024/07/Simpsons_MINI_SCALED_FIGS_25.webp"
+  },
+  {
+    "name": "Carl Carson",
+    "description": "Figura de Carl, amigo de Homero",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 3,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/1.21.25_257371_196884_Simposons-5-in-Wave-40015.webp"
+  },
+  {
+    "name": "Bart",
+    "description": "Figura de Bart en skate",
+    "precio": 128.0,
+    "categoria": "simpsons",
+    "stock": 5,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/1.21.25_257371_196884_Simposons-5-in-Wave-40034.webp"
+  },
+  {
+    "name": "Bumblebee Man",
+    "description": "Figura de Bumblebee Man",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 5,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/1.21.25_257371_196884_Simposons-5-in-Wave-40027.webp"
+  },
+  {
+    "name": "Chief Wiggum",
+    "description": "Figura de Comisario gorgori",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 3,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2024/07/Simpsons_MINI_SCALED_FIGS_23.webp"
+  },
+  {
+    "name": "Abuelo",
+    "description": "Figura de Abuelo",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 4,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/12.10.24_255634_176664-_Simpsons-2.5Scaled-Figs-Asst-W32369.webp"
+  },
+  {
+    "name": "Comic Book Guy",
+    "description": "Figura de Comic Buy Guy",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 2,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/12.10.24_255634_176664-_Simpsons-2.5Scaled-Figs-Asst-W32378.webp"
+  },
+  {
+    "name": "Burns Vampire",
+    "description": "Figura de Burns Vampire",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 4,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2024/08/Vampire-Mr.-Burns_1.webp"
+  },
+  {
+    "name": "Marge & Maggie",
+    "description": "Figura de Marge",
+    "precio": 100.0,
+    "categoria": "simpsons",
+    "stock": 50,
+    "imageUrl": "https://www.jakks.com/wp-content/uploads/2025/03/11.13.24_254350_196834_SMPSNS_The-Simpsons-5-Inch-Figs-Wave-30638.webp"
+  }
+]
