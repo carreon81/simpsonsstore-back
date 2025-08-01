@@ -65,4 +65,4 @@ http://localhost:8081/swagger-ui.html
 
 👨‍💻 Autor
 
-Desarrollado por Emmanuel Carreón como parte del curso Talento Tech.
+Desarrollado por Emmanuel Carreón.
